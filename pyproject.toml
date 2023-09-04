@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "zenix"
+version = "0.1.0"
+description = "zenix is an open-source platform that revolutionizes digital interactions"
+authors = ["karthiks373"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
